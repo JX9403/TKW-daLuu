@@ -38,6 +38,7 @@
 .searchSave-search .btn{
   margin: 0;
   width: 100%;
+  font-size: 1.6rem;
 }
 
 .searchSave-search .searchSave-search-wrap a:hover{
