@@ -150,6 +150,13 @@
   .btn-c {
     margin: 8px;
   }
+
+  .searchSaved-res{
+    font-size: 1.4rem;
+  }
+  .searchSaved-search select{
+    font-size: 1.4rem;
+  }
   .searchSaved-box-title{
     font-size: 1.4rem;
     margin-bottom: 5px;
