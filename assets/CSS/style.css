@@ -14,8 +14,16 @@
   font-size: 2rem;
   font-weight: 700;
   color: var(--color-red);
+  position: relative;
 }
-
+.searchSaved-back {
+  font-size: 3rem;
+  margin-bottom: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: -5px;
+  left: -60px;
+}
 .searchSave-search {
   background-color: var(--color-red);
   border-radius: 8px;
